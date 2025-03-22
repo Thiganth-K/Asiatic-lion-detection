@@ -1,0 +1,6 @@
+train: C:/Users/THIGANTH/Asiatic-lion/datasets/train/images
+val: C:/Users/THIGANTH/Asiatic-lion/datasets/train/images
+test: C:/Users/THIGANTH/Asiatic-lion/datasets/test/images
+
+nc: 1
+names: ['Lion']
